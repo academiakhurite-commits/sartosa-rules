@@ -18,14 +18,15 @@ sidebar_position: 20
 |11|Thunderstorm|
 |12|Maelstrom!|
 
-2. **Baking Hot:** The sun beats down from on high,
-and the sea reflects the glare. All warriors except
+## **Baking Hot**
+The sun beats down from on high, and the sea reflects the glare. All warriors except
 Undead are at -1 to WS, BS and I for the duration
 of the game. Any model with wet powder
 immediately has it dry their next Recovery Phase.
 
 
-3. **Foggy:** A thick fog has rolled in from the coast.
+## **Foggy**
+A thick fog has rolled in from the coast.
 Roll 1D6. A roll of 1-5 results in all shooting
 reduced to half range due to poor visibility. On a
 6 warriors can't see where they are going and are
@@ -37,7 +38,8 @@ friendly roll 1D6, on a 5+ they attack them
 thinking they are the enemy.
 
 
-4. **Dry:** The sun beats down on the beaches,
+## **Dry**
+The sun beats down on the beaches,
 making leathers creak and reddening exposed
 skin. If a Pirate and his powder become wet roll a
 D6 during your Recovery Phase: on 4+, the
@@ -47,7 +49,8 @@ when climbing or rolling to avoid falling, as their
 grip is greatly improved on dry surfaces.^
 
 
-5. **Windy:** A hot wind from the South tears across
+## **Windy** 
+A hot wind from the South tears across
 the isle making it difficult to shoot and leap
 across buildings/terrain features. Roll 1D6: 1-3 =
 -1 to hit with missile weapons and to leap across
@@ -61,21 +64,24 @@ their move, and sailed ships moving against it are
 at -2.
 
 
-9. **Raining:** All missile and powder weapons are
+## **Raining**
+All missile and powder weapons are
 at -1 to hit. Those wishing to fire a Black Powder
 weapon must first roll 4+ on 1D6 otherwise the
 powder is too wet to fire. (Models with Powder
 Horns do not have to test.)
 
 
-10. **Heavy Rain:** The monsoon beats down upon
+## **Heavy Rain**
+The monsoon beats down upon
 the warriors making movement slow and
 hazardous. There is -1 to all movement. All
 missile weapons ranges are halved. Black
 Powder weapons may not fire at all.
 
 
-11. **Thunderstorm:** A lightning storm, that cracks
+## **Thunderstorm**
+A lightning storm, that cracks
 the very air around your warriors. Each round,
 choose a random quadrant on the board, then
 pick a random warrior in that quadrant. Roll a
@@ -89,7 +95,8 @@ of his skin. Until next round, he may do nothing
 but fight back in combat.
 
 
-12. **Maelstrom:** The warbands are struck by a
+## **Maelstrom** 
+The warbands are struck by a
 monstrous storm that comes and goes faster than
 imagined possible. A Maelstrom will hit the
 battlefield for the first D3+2 turns, no missile
