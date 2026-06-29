@@ -2,7 +2,7 @@
 title: General 
 description: General Page 
 #wrapperClassName: docusaurus-markdown-example
-sidebar_position: 5
+sidebar_position: 2
 ---
 The rules in this campaign are based on fighting inside the City of Sartosa, the subtropic islands that surround it, and the coastal villages nearby.
 Each player represents a pirate warband or a naval warband as they explore the caves and jungles, raid ports, or openly brawl in the chaotic streets.

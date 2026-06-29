@@ -1,6 +1,6 @@
 ---
-title: General 
-description: General Page 
+title: Rules 
+description: Rules Page 
 #wrapperClassName: docusaurus-markdown-example
 sidebar_position: 5
 ---
