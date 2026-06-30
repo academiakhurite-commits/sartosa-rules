@@ -50,3 +50,4 @@ The game ends when all the Cargo crates have been taken off the board; if that i
 
 Your warband earns one Cargo crate for each crate in their possession at the end of the battle. Any crate taken off the board by your warband may immediately be opened in the post game phase.
 
+--- 
