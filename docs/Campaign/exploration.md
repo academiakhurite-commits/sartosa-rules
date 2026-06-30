@@ -8,9 +8,9 @@ sidebar_position: 105
 
 ## Exploration Table
 
-| - | Doubles | Triples | Quadruples | Quintuples | Sextuples |
+| - | [Doubles](#doubles) | [Triples](#triples) | [Quadruples](#quadruples) | [Quintuples](#quintuples) | [Sextuples](#sextuples) |
 |------|--------|------|--------|------|--------|
-| 1 | Hard Day's Work | Grog! | Gunsmith | Paymaster's Ship | Cursed Cove |
+| 1 | [Hard Day's Work](#1-1-hard-days-work) | Grog! | Gunsmith | Paymaster's Ship | Cursed Cove |
 | 2 | Flotsam | Smithy | Estalian Mission | Captain's Quarters | Buried Treasure |
 | 3 | Dropped Satchel | Prison Break | Houseboat | Jewel smith | Arms Smuggler |
 | 4 | Cast Away | Port Shop | Araby Merchant | Privateer Contract | Naval Shipwreck |
