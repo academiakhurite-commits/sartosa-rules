@@ -1,4 +1,4 @@
-![Mapa](https://i.imgur.com/UpyEbWD.jpeg)
+![Mapa](https://i.imgur.com/d00mgf1.jpeg)
 
 | City of Sartosa | Scenario 1d6: | Advantages |						
 | :---- | :---- | :---- |

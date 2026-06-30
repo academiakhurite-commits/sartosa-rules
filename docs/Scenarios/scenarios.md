@@ -49,44 +49,56 @@ Some of the following scenario variations recommend using certain rules from 'Re
 
 
 ### A	Street Fight Variation: In the Drink\!  
+https://mordheimer.net/docs/campaigns/scenarios/mordheim-rulebook/street-fight  
 Rather than fight in a crowded street, have the two warbands fight on a narrow wharf or a thick pier. Any models that get pushed off or fall off the edge go tumbling into the water, and suffer the normal rules for water.
 
 ### B	Hidden Treasure: X Marks the Spot\!  
+https://mordheimer.net/docs/campaigns/scenarios/mordheim-rulebook/hidden-treasure  
 Rather than discovering the treasure on a 2D6 roll of 12, make a marker for every searchable building. Mark the bottom of one of these markers with an X, and shuffle them randomly, face down. When a non-animal warrior gets in contact with a marker, he flips it over at the end of the Movement phase. The X marker is replaced with the treasure chest.
 
 ### C	Wyrdstone Hunt Variation– Heavy Load\!  
+https://mordheimer.net/docs/campaigns/scenarios/mordheim-rulebook/wyrdstone-hunt  
 Rather than placing Wyrdstone shards, place Cargo Crates. These are heavier to move (see rules for ‘Cargo’), but any crate that your models are in possession of may be opened immediately in the  
 exploration phase.
 
 ### D	Breakthrough Variation: Sneaking Out/In\!  
+https://mordheimer.net/docs/campaigns/scenarios/mordheim-rulebook/breakthrough  
 After determining which player is the attacker, roll 1D6: on a 3-6, the Player is Sneaking Into town, and may have his models leave any place along the defenders edge. On a roll of 1-2, they have the much harder task of sneaking OUT of town; place a 12-18” ‘safe zone’ on the defender’s edge of the board (a large ship works wonderfully\!) Attacking models only count as ‘breaking through’ if they are in the boat/space. The entire board uses the rules for Night, and the Defender suffers the rules for Sentry (reprinted last page.)
 
 ### E	Chance Encounter Guards\! Guards\!\!” Variation  
+https://mordheimer.net/docs/campaigns/scenarios/mordheim-rulebook/chance-encounter  
 The two warbands meet each other in a small coastal town, outside of the amnesty of Sartosa. You see through each other’s flimsy disguises, and there’s a good chance someone will call the local guards. Use the Guards rule from Relics of the Crusade
 
 ### F	Chance Encounter Fancy Meetin’ you ‘Ere\!’ Variation  
+https://mordheimer.net/docs/campaigns/scenarios/mordheim-rulebook/chance-encounter  
 Both warbands are returning to the Sartosa piers from a night of drinking and more drinking. Using your Leader’s Leadership value, both players make leadership tests for every henchmen group. If the test fails, that henchmen group counts as being under the effect of Grog (-1 WS, \-1BS, Passes all Fear and All Alone tests.) Non-living and demonic henchmen suffer no penalties, and tee-totaling warbands (Witch Hunters, Sisters of Sigmar, Lothern Sea Patrol, Araby Smugglers) may reroll any failed leadership tests once, the second roll standing.
 
 ### G	Last Orders\!  
+https://mordheimer.net/docs/campaigns/campaign-settings/border-town-burning/scenarios/last-orders  
 While this scenario is generally unchanged from the Border Town Burning and Nemesis Crown versions, note that the version of Random Events are slightly changed, and there are extra rules for Pocket Pistols
 
 ### H	Defend the Find Variation: Rock the Boat\!   
+https://mordheimer.net/docs/campaigns/scenarios/mordheim-rulebook/defend-the-find  
 If your gaming group owns a middle or large boat model, you may choose to have the defending warband defend that instead of a central building. If that is the case, the boat is anchored in place for the entire game, and the board must be set up so at least two easily accessible gangplanks or piers connects the boat to land. The defenders receive no extra bonus for  
 defending the boat (although models attempting to board from the water or boats of a height difference of 1” or greater must still climb the sides of the defending boat in order to board it.)
 
 ### I	Press Gang
 
 ### J	Skirmish
+https://mordheimer.net/docs/campaigns/scenarios/mordheim-rulebook/skirmish  
 
 ### K	Boarding Action
 
-### L 	Wyrdstone Hunt Variation: Glittering Prizes\!  
+### L 	Wyrdstone Hunt Variation: Glittering Prizes\! 
+https://mordheimer.net/docs/campaigns/scenarios/mordheim-rulebook/wyrdstone-hunt   
 While not dealing in ‘Wyrdstone’ per se, the treasure is in small, easy to carry forms (crowns, necklaces, etc.) After the game, each may be exchanged for a Cargo.
 
 ### M	Island Hopping Variation: Archipelago  
+https://mordheimer.net/docs/campaigns/scenarios/town-cryer/island-hopping  
 When moving boats or floating models in seawater, remember that there is no upstream or downstream.
 
 ### N	Breakthrough Variation: Back to the Ship\!  
+https://mordheimer.net/docs/campaigns/scenarios/mordheim-rulebook/breakthrough  
 The far off table edge the attacker is trying to escape to is a 6” strip of beach that extends across the table edge. The attacker may also place up to three warriors anywhere on the beach area (enemy models may not set up within 14” of these models either.) Of course, these three warriors who are defending the ship do not count as ‘breaking through’ for the purposes of winning the game or for earning extra experience.
 
 ### O	Mutiny
@@ -103,8 +115,10 @@ The far off table edge the attacker is trying to escape to is a 6” strip of be
 ### T	Warring Houses
 
 ### U	Street Brawl
+https://mordheimer.net/docs/campaigns/scenarios/town-cryer/street-brawl-tc5  
 
 ### V	Lost Prince Variation: The Governor’s Daughter  
+https://mordheimer.net/docs/campaigns/scenarios/town-cryer/lost-prince-tc5  
 The stats and equipment of the Prince(ss) remains the same, but the gender is different. Also, roll 1D6 to see what kind of daughter the Governor has raised:  
 1-3 Frightened – The innocent young girl longs to be rescued, but is easily scared by any gruesome face. If she is within 8” of any model that causes Fear, she will  
 move in the opposite direction as quickly as possible. Once a warrior attaches himself to her, she will not run away until unattached once more.  
@@ -114,6 +128,7 @@ Large or Mounted.) Each of your recovery phases, roll a D6: on a 1, she wakes up
 The Daughter will fight until rendered unconscious again, or until all opposing warriors in base contact are taken out of action.
 
 ### W	Ambush Variation: Thief in the Night  
+https://mordheimer.net/docs/campaigns/scenarios/town-cryer/ambush-tc5  
 Rather than simply to carry shards, each hero instead starts off with a heavy Cargo crate. He may not hand it off to another warrior, but he may have another, unburdened warrior share the weight, in that he may move normally. The conditions for Night apply, and all of the attacking players suffer the rules for Sentries (the rules for both are printed at the end of the scenario  
 lists.) The defender may not exit from any undefended side of the board that is 2’ or less of their deployment area (this should be blocked off, if possible.) Every Cargo crate captured is worth not 1 but 1D3 Cargo at the end of the game.		
 
@@ -122,4 +137,5 @@ lists.) The defender may not exit from any undefended side of the board that is 
 ### Y	Raft Race
 
 ### Z	The Pool Variation: Glittering Prizes\!  
+https://mordheimer.net/docs/campaigns/scenarios/town-cryer/pool-tc5  
 While not dealing in ‘Wyrdstone’ per se, the treasure is in small, easy to carry forms (crowns, necklaces, etc.) After the game, each may be exchanged for a Cargo
