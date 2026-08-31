@@ -1,0 +1,209 @@
+# THE PATRIARCH AWAKENS
+
+### Final Battle of the Campaign
+
+> *For centuries he has slept beneath the ruins of Mordheim. The first of the bloodline.*
+>
+> *Now the wyrdstone has been gathered. The altar is prepared. The dead are carrying the offerings.*
+>
+> *The only thing standing between the Patriarch and his return... is everyone else in Mordheim.*
+
+---
+
+## 1. The Battlefield
+
+Use a **large central ruin or open square**, with the following setup:
+
+* An **Altar** is placed at the exact centre of the battlefield.
+* Place **6 Wyrdstone Crates** around the battlefield, approximately **12" from the Altar**.
+* The Undead player deploys in a zone surrounding the Altar.
+* The remaining warbands enter from the four sides of the battlefield, with their models deployed **up to 8" onto the table**.
+* Each attacking warband has its own **Cart**, placed in its deployment edge.
+
+The battlefield should contain plenty of ruins and cover, but the Altar should remain visible from several directions.
+
+---
+
+# 2. The Wyrdstone Crates
+
+The crates represent the accumulated wyrdstone needed for the resurrection.
+
+The Undead player begins with **additional Zombies** one for every crate, whose sole purpose is to carry the crates.
+
+### Carrying a Crate
+
+A Zombie carrying a crate:
+
+* Moves at **half Movement**.(Normal move if other model helps)
+* Cannot climb.
+* Cannot charge while carrying it.
+* May drop the crate at any time.
+* Another model may pick it up by moving into base contact.
+
+The attacking warbands may capture crates in the same way.
+
+### Stealing the Crates
+
+If an enemy model carrying a crate reaches its warband's **Cart**, the crate is considered **secured** and is removed from the battlefield.
+
+Once secured, it **cannot be recovered by the Undead**.
+
+---
+
+# 3. The Resurrection
+
+At the **beginning of every Undead turn**, before movement, the Undead player may attempt to resurrect the Patriarch.
+
+Roll:
+
+### **2D6 + 2 for every crate currently placed on the Altar**
+
+The resurrection succeeds on a result of **13+**.
+
+For example:
+
+* 0 crates: 2D6 → impossible
+* 1 crate: 2D6 + 2
+* 2 crates: 2D6 + 4
+* 3 crates: 2D6 + 6
+* 4 crates: 2D6 + 8
+* 5 crates: 2D6 + 10
+* 6 crates: 2D6 + 12
+
+**Once the Patriarch is resurrected, no further resurrection rolls are made.**
+
+### Placing a Crate on the Altar
+
+A model carrying a crate can place it on the Altar by ending its movement in base contact with it.
+
+
+
+---
+
+# 4. THE PATRIARCH AWAKENS
+
+When the resurrection succeeds, place **The Patriarch** on the Altar.
+
+The Patriarch is not simply another Vampire.
+
+He is an ancient creature of the bloodline — the vampire who once gave the **Blood Kiss to Frich von Haas**.
+
+At the moment of his resurrection, roll on the following table.
+
+| M | WS | BS | S | T | W | I | A | Ld |
+|---|----|----|---|---|---|---|---|----|
+| 6 | 4 | 4 | 4 | 4 | 2 | 5 | 2 | 10 |
+
+Special Rules
+
+Leader: Any models in the warband within 6" of the Vampire may use his Leadership instead of their own.
+
+Cause Fear: Vampires are terrifying Undead creatures and therefore cause fear.
+
+Arcane Lore
+
+Immune to Psychology: Vampires are not affected by psychology (such as fear) and never leave combat.
+
+Immune to Poison: Vampires are not affected by any poison.
+
+No Pain: Vampires treat a ‘stunned’ result on the Injury chart as ‘knocked down’.
+
+Eternal Thirst: Every enemy he personally takes **Out of Action**, he absorbs some of their life force, he regens to full W.
+
+
+### Patriarch's Initial Gift
+
+For each crate that was on the Altar the moment the Vampire Patriarch was resurrected roll on this table:
+
+2d6
+2 Frenzy
+3 Choose an Academic Skill
+4 +1 S
+5 Choose a Strength Skill
+6 Choose an Speed Skill
+7 Choose a Combat Skill
+8 +1 A
+9 +1 W
+10 Transfixing glare skill
+11 Pull of Undeath skill
+12 The Vampire has a Book of the Dead, he learns a spell from Necromancy(if roll again 12 learns another spell or -1 to the difficulty of an already learned spell)
+---
+
+# 6. The Undead Objective
+
+The Undead player has one ultimate objective:
+
+### **RESURRECTION OF THE PATRIARCH**
+
+The Undead win if:
+
+1. The Patriarch is successfully resurrected, **and**
+2. Every opposing warband's **Leader is taken Out of Action**.
+
+The Undead do **not** need to eliminate the entire enemy force.
+
+Once the Patriarch has awakened, the battle becomes a hunt for the enemy leaders.
+
+---
+
+# 7. THE OTHER WARBANDS
+
+All other warbands share the same ultimate objective:
+
+### **STOP THE RESURRECTION**
+
+They win if either:
+
+### A. Steal the Wyrdstone
+
+They successfully remove **all six crates from the battlefield by taking them to their Carts** before the Patriarch is resurrected.
+
+**OR**
+
+### B. Kill the Patriarch
+
+If the Patriarch is successfully resurrected, the attackers may instead **kill him**.
+
+If the Patriarch is taken Out of Action, the resurrection ritual fails and **all attacking warbands immediately win**.
+
+
+---
+
+# 8. MULTIPLAYER RULES
+
+the attacking warbands are allowed to:
+
+* Steal crates from each other.
+* Attack each other's models.
+* Block another warband's Cart.
+* Take treasure for themselves.
+* Ignore the Patriarch while fighting each other.
+
+---
+
+# 9. THE ZOMBIE CARRIERS
+
+The additional Zombies should are **Ritual Bearers**.
+
+They must attempt to carry the crates to the Altar and will not voluntarily abandon their task.
+
+They may:
+
+* Carry crates.
+* Move toward the Altar.
+* Fight anything preventing them from reaching it.
+Once they place the crate on the Altar they behave like a normal Undead Zombie.
+
+
+---
+
+## Victory Summary
+
+| Faction       | Victory Condition                                                    |
+| ------------- | -------------------------------------------------------------------- |
+| **Undead**    | Resurrect the Patriarch **and** take all enemy Leaders Out of Action |
+| **Attackers** | Remove all six crates to their Carts **before resurrection**         |
+| **Attackers** | **OR** kill the Patriarch after his resurrection                     |
+
+
+

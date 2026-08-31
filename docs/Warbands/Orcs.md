@@ -1,4 +1,4 @@
-# The Island of SORC-tosa!
+# Orc Pirates
 
 *Variants for Orc Pirates and Savage Orcs Warbands in the Sartosa Setting*
 
