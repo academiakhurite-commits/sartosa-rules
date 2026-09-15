@@ -15,7 +15,7 @@
 Use a **large central ruin or open square**, with the following setup:
 
 * An **Altar** is placed at the exact centre of the battlefield.
-* Place **6 Wyrdstone Crates** around the battlefield, between **10" and 16" from the Altar**. Every player places one.
+* Place **6 Wyrdstone Crates** around the battlefield, between **12" and 18" from the Altar**. Every player places one they must be placed on ground level.
 * The Undead player deploys in a zone surrounding the Altar, max 10" from the center. 
 * The remaining warbands enter from the six sides of the battlefield, with their models deployed **up to 8" onto the table**.
 
