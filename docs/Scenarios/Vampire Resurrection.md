@@ -22,7 +22,7 @@ Use a **large central ruin or open square**, with the following setup:
 
 ---
 
-# 2. The Wyrdstone Crates
+## 2. The Wyrdstone Crates
 
 The crates represent the accumulated wyrdstone needed for the resurrection.
 
@@ -44,7 +44,7 @@ The attacking warbands may capture crates in the same way.
 
 ---
 
-# 3. The Resurrection
+## 3. The Resurrection
 
 At the **beginning of every Undead turn**, before movement, the Undead player may attempt to resurrect the Patriarch.
 
@@ -74,7 +74,7 @@ A model carrying a crate can place it on the Altar by ending its movement in bas
 
 ---
 
-# 4. THE PATRIARCH AWAKENS
+## 4. THE PATRIARCH AWAKENS
 
 When the resurrection succeeds, place **The Patriarch** on the Altar.
 
@@ -128,9 +128,10 @@ For each crate that was on the Altar the moment the Vampire Patriarch was resurr
 10 Transfixing glare skill
 11 Pull of Undeath skill
 12 The Vampire has a Book of the Dead, he learns a spell from Necromancy(if roll again 12 learns another spell or -1 to the difficulty of an already learned spell)
+
 ---
 
-# 5. The Undead Objective
+## 5. The Undead Objective
 
 The Undead player has one ultimate objective:
 
@@ -147,7 +148,7 @@ Once the Patriarch has awakened, the battle becomes a hunt for the enemy leaders
 
 ---
 
-# 6. THE OTHER WARBANDS
+## 6. THE OTHER WARBANDS
 
 The other warbands will get a secret mission at the beggining of the match. 
 
