@@ -15,12 +15,10 @@
 Use a **large central ruin or open square**, with the following setup:
 
 * An **Altar** is placed at the exact centre of the battlefield.
-* Place **6 Wyrdstone Crates** around the battlefield, approximately **12" from the Altar**.
-* The Undead player deploys in a zone surrounding the Altar.
-* The remaining warbands enter from the four sides of the battlefield, with their models deployed **up to 8" onto the table**.
-* Each attacking warband has its own **Cart**, placed in its deployment edge.
+* Place **6 Wyrdstone Crates** around the battlefield, between **10" and 16" from the Altar**. Every player places one.
+* The Undead player deploys in a zone surrounding the Altar, max 10" from the center. 
+* The remaining warbands enter from the six sides of the battlefield, with their models deployed **up to 8" onto the table**.
 
-The battlefield should contain plenty of ruins and cover, but the Altar should remain visible from several directions.
 
 ---
 
@@ -34,19 +32,15 @@ The Undead player begins with **additional Zombies** one for every crate, whose 
 
 A Zombie carrying a crate:
 
-* Moves at **half Movement**.(Normal move if other model helps)
+* Cannot run, -1 movement.(Normal move if other model helps)
 * Cannot climb.
 * Cannot charge while carrying it.
-* May drop the crate at any time.
+* Cannot drop the crate.
+* Can defend itself if charged.
 * Another model may pick it up by moving into base contact.
 
 The attacking warbands may capture crates in the same way.
 
-### Stealing the Crates
-
-If an enemy model carrying a crate reaches its warband's **Cart**, the crate is considered **secured** and is removed from the battlefield.
-
-Once secured, it **cannot be recovered by the Undead**.
 
 ---
 
@@ -86,13 +80,20 @@ When the resurrection succeeds, place **The Patriarch** on the Altar.
 
 The Patriarch is not simply another Vampire.
 
-He is an ancient creature of the bloodline — the vampire who once gave the **Blood Kiss to Frich von Haas**.
+He is an ancient creature of the bloodline of the Bloodbound Covenant.
 
-At the moment of his resurrection, roll on the following table.
 
 | M | WS | BS | S | T | W | I | A | Ld |
 |---|----|----|---|---|---|---|---|----|
 | 6 | 4 | 4 | 4 | 4 | 2 | 5 | 2 | 10 |
+
+Equipment
+
+Heavy Armour, Helmet, Gromril Axe(-1 save), Sword, Lucky Charm
+
+All-seeing Eye of Numas: The bearer of the All-seeing Eye can see all models on the table top, even if they are hidden or out of sight. He can guide his fellow warband members through the ruins (this allows you to roll two dice for the bearer after battle when rolling on the Exploration chart). The bearer also has an additional 6+ save (which is not modified by Strength or weapon modifiers) against all shooting attacks and strikes in close combat, as he can sense the attacks before they are made.
+
+All animals (such as wardogs, horses, etc) will be affected by frenzy when fighting against the bearer of the All-seeing Eye.
 
 Special Rules
 
@@ -129,7 +130,7 @@ For each crate that was on the Altar the moment the Vampire Patriarch was resurr
 12 The Vampire has a Book of the Dead, he learns a spell from Necromancy(if roll again 12 learns another spell or -1 to the difficulty of an already learned spell)
 ---
 
-# 6. The Undead Objective
+# 5. The Undead Objective
 
 The Undead player has one ultimate objective:
 
@@ -138,7 +139,7 @@ The Undead player has one ultimate objective:
 The Undead win if:
 
 1. The Patriarch is successfully resurrected, **and**
-2. Every opposing warband's **Leader is taken Out of Action**.
+2. 2 opposing warband's **Leader is taken Out of Action**.
 
 The Undead do **not** need to eliminate the entire enemy force.
 
@@ -146,64 +147,16 @@ Once the Patriarch has awakened, the battle becomes a hunt for the enemy leaders
 
 ---
 
-# 7. THE OTHER WARBANDS
+# 6. THE OTHER WARBANDS
 
-All other warbands share the same ultimate objective:
-
-### **STOP THE RESURRECTION**
-
-They win if either:
-
-### A. Steal the Wyrdstone
-
-They successfully remove **all six crates from the battlefield by taking them to their Carts** before the Patriarch is resurrected.
-
-**OR**
-
-### B. Kill the Patriarch
-
-If the Patriarch is successfully resurrected, the attackers may instead **kill him**.
-
-If the Patriarch is taken Out of Action, the resurrection ritual fails and **all attacking warbands immediately win**.
+The other warbands will get a secret mission at the beggining of the match. 
 
 
 ---
 
-# 8. MULTIPLAYER RULES
-
-the attacking warbands are allowed to:
-
-* Steal crates from each other.
-* Attack each other's models.
-* Block another warband's Cart.
-* Take treasure for themselves.
-* Ignore the Patriarch while fighting each other.
-
----
-
-# 9. THE ZOMBIE CARRIERS
-
-The additional Zombies should are **Ritual Bearers**.
-
-They must attempt to carry the crates to the Altar and will not voluntarily abandon their task.
-
-They may:
-
-* Carry crates.
-* Move toward the Altar.
-* Fight anything preventing them from reaching it.
-Once they place the crate on the Altar they behave like a normal Undead Zombie.
 
 
----
 
-## Victory Summary
-
-| Faction       | Victory Condition                                                    |
-| ------------- | -------------------------------------------------------------------- |
-| **Undead**    | Resurrect the Patriarch **and** take all enemy Leaders Out of Action |
-| **Attackers** | Remove all six crates to their Carts **before resurrection**         |
-| **Attackers** | **OR** kill the Patriarch after his resurrection                     |
 
 
 
