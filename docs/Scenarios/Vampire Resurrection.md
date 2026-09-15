@@ -117,17 +117,17 @@ Eternal Thirst: Every enemy he personally takes **Out of Action**, he absorbs so
 For each crate that was on the Altar the moment the Vampire Patriarch was resurrected roll on this table:
 
 2d6
-2 Frenzy
-3 Choose an Academic Skill
-4 +1 S
-5 Choose a Strength Skill
-6 Choose an Speed Skill
-7 Choose a Combat Skill
-8 +1 A
-9 +1 W
-10 Transfixing glare skill
-11 Pull of Undeath skill
-12 The Vampire has a Book of the Dead, he learns a spell from Necromancy(if roll again 12 learns another spell or -1 to the difficulty of an already learned spell)
+* 2 Frenzy
+* 3 Choose an Academic Skill
+* 4 +1 S
+* 5 Choose a Strength Skill
+* 6 Choose an Speed Skill
+* 7 Choose a Combat Skill
+* 8 +1 A
+* 9 +1 W
+* 10 Transfixing glare skill
+* 11 Pull of Undeath skill
+* 12 The Vampire has a Book of the Dead, he learns a spell from Necromancy(if roll again 12 learns another spell or -1 to the difficulty of an already learned spell)
 
 ---
 
