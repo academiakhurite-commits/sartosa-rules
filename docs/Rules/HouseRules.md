@@ -1,4 +1,3 @@
-
 ---
 title: House Rules 
 description: House Rules Page 
