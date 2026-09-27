@@ -3,6 +3,7 @@
 The dreaded Dark Elven Corsairs are creatures of nightmare, spoken of in hushed whispers of abject terror. There are few that haven't heard of the dreadful raids the dark clad Elven pirates perform, striking out with lightning speed and ferocity in the middle of the night. Dread legends speak of their horrific slave raids, striking almost anywhere and without warning. It is commonly known that coastal regions are especially prone to attack, as the maligned Druchii strike out from their titanic Black arks. Tales abound of small raiding parties, sallying forth from the floating fortresses to spread fear, terror, and reap prisoners to take back to their nightmarish realm where unspeakable atrocities occur.
 
 These hellish raiding parties are undertaken by elves of higher rank on the ships, normally under leadership of a young captain. To them, sewing terror is a pleasurable hobby, and they raid purely for personal gain. The Noble in command of their fortress vessels even hires out 'man' power to these raiding bands, as long as appropriate gratitude is shown.
+
 ---
 
 ## Special Rules
