@@ -14,10 +14,9 @@ Strength modifiers do not count into armor penetration.
 
 It's possible to wound with a 7(6+4), 8(6+5), 9(6+6)
 
-Shields +2 to the save in close combat and bucklers +1 and parry. Bucklers and Shields will cost +5 gc (10 in total).
+Toughened Leathers abialbe for every warband 
 
 Spears and Boat Hook: Strikes first, but chargers strike first too, so it goes to initiative value.
-
 
 There is no trickshooter skill
 
