@@ -32,35 +32,35 @@ sidebar_position: 135
 |------|------|--------------|
 | Belaying Pin | 3 gc | Common |
 | Bow | 10 gc | Common |
-| Blunderbuss | 30 gc | Rare 7 |
+| Blunderbuss | 30(24) gc | Rare 7 |
 | Crossbow | 25 gc | Rare 8 |
 | Crossbow Pistol | 35 gc | Rare 11 |
-| Double-barreled Blunderbuss | 60 gc | Rare 11 |
-| Double-barreled Hunting Rifle | 300 gc | Rare 11 |
-| Double-barreled Pistol / brace | 30 gc / 60 gc | Rare 8 |
-| Dueling Pistol / brace | 30 gc / 60 gc | Rare 8 |
-| Duck-Footed Pistol | 50 gc | Rare 11 |
-| Dwarven Pistol / brace | 40 gc / 80 gc | Rare 10 |
+| Double-barreled Blunderbuss | 60(48) gc | Rare 11 |
+| Double-barreled Hunting Rifle | 300(240) gc | Rare 11 |
+| Double-barreled Pistol / brace | 30(24) gc / 60(48) gc | Rare 8 |
+| Dueling Pistol / brace | 30(24) gc / 60$(48) gc | Rare 8 |
+| Duck-Footed Pistol | 50(40) gc | Rare 11 |
+| Dwarven Pistol / brace | 40(32) gc / 80(64) gc | Rare 10 |
 | Elf Bow | 35+3D6 gc | Rare 9 *(Lothern Sea Guard only)* |
-| Handgun | 35 gc | Common |
-| Hunting Rifle | 200 gc | Rare 9 |
+| Handgun | 35(28) gc | Common |
+| Hunting Rifle | 200(160) gc | Rare 9 |
 | Javelins or Harpoons | 5 gc | Common |
-| Long Barreled Pistol / brace | 40 gc / 80 gc | Rare 10 |
+| Long Barreled Pistol / brace | 40(32) gc / 80(64) gc | Rare 10 |
 | Long Bow | 15 gc | Rare 5 |
-| Pistol / brace | 15 gc / 30 gc | Common |
+| Pistol / brace | 15(12) gc / 30(24) gc | Common |
 | Pocket Pistol | 5 gc | Rare 4 |
 | Repeater Crossbow | 40 gc | Rare 10 |
-| Repeater Pistol / brace | 40 gc / 80 gc | Rare 10 |
+| Repeater Pistol / brace | 40(32) gc / 80(64) gc | Rare 10 |
 | Sling | 2 gc | Common |
 | Short Bow | 5 gc | Common |
-| Swivel Gun | 65 gc | Rare 8 *(Human Pirates Only; one per warband)* |
+| Swivel Gun | 65(52) gc | Rare 8 *(Human Pirates Only; one per warband)* |
 | — Ballshot Ammo | 5 gc | — |
 | — Chainshot Ammo | 2 gc | — |
 | — Grapeshot Ammo | 2 gc | — |
-| Sword Pistol | 60 gc | Rarity 11 |
+| Sword Pistol | 60(48) gc | Rarity 11 |
 | Throwing Knives/Stars | 15 gc | Rare 5 |
 | Throwing Axes | 15 gc | Rare 5 |
-| Warplock Pistols | 35 gc / 70 gc | Rare 9 *(Skaven only)* |
+| Warplock Pistols | 35(28) gc / 70(56) gc | Rare 9 *(Skaven only)* |
 
 ### Armour
 
