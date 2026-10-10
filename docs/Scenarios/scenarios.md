@@ -6,24 +6,7 @@ sidebar_position: 265
 ---
 ## Scenario Rules
 
-Any scenario marked **in bold** is a new scenario, printed in the following pages. Likewise, any scenario *in italics* is an existing scenario, either in the core Mordheim set, Town Cryer, or well-known Specialist Games approved expansions. Some of these are reprinted in this document.
 
-Any scenario marked with an asterisk (\*) has a slight variation, tailoring it for the Sartosa Setting. See the appropriate variation for rules and changes.
-
-There are two lists to choose from when rolling for Scenarios: **City** & **Island**. City scenarios are based in the City of Sartosa, with closer set buildings, while Island scenarios take place in the jungles, beaches, and even the open seas. You may choose randomly which Scenario list to use, or may choose based on available scenery.
-
-### City/Island Campaigns
-
-If you have enough terrain to play both City and Island games, then each player takes turns deciding which location they want to be in. If so, here are the following rules for the settings, which also apply to Multiplayer games:
-
-**City:** The winner of the scenario rolls an extra Exploration dice and DISCARDS one of his/her choice. Players may look for items and hired swords as normal.
-
-**Island:** The winner of the scenario rolls an extra Exploration dice. Players may recruit henchmen and heroes like normal, but may not hire Hired Swords, and may only buy Common equipment.
-
-**Other Recommended Scenarios:** 'Haunted Wreck' by Jim Schumacher, "Down at the Docks" from Town Cryer, 'Flood Plain' from Nemesis Crown, "Frenzied Mob", and 'Dungeon Raid' from Relics of the Crusade. If you feel like your group has a FIRM grasp on Boats, attempt the EiF scenario "Stagecoach Ambush" using small-to-mid-sized rafts and boats. In general when using other scenarios, consider replacing wyrdstone counters with Cargo. If you do, any captured Cargo may be opened immediately after the game, or whether they may only open one like normal.
-
-
----
 
 ### Using "Guards", "Sentries", "Night", and Other 'Relics of the Crusade' Rules
 

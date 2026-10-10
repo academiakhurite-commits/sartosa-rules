@@ -65,6 +65,8 @@ Lucky Rabbits Foot, Lucky Charm, & Holy/Unholy Relics are limited to 1 per warba
 
 ### Skills
 
+Each warband is allow to have only one hero with one skill(two heros can not learn the same skill), until he is out of the roster no other hero is allowed to learn that skill (exception would be a skill that comes with the hero type by default).
+
 Pirate Skills
 1a, 1b, 1c Skills
 
