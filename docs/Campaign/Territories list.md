@@ -2,29 +2,29 @@
 
 | City of Sartosa | Scenario 1d6: | Advantages |						
 | :---- | :---- | :---- |
-| Deadman's docks | A C E F H S | ½ price of boats |
+| Deadman's docks | A C E F H S | ½ price of boats (one item every afterbattle) |
 | Peg Street | A B E F L R | \+2 to rarity rolls |
 | The Ox Head tavern  | A F G G I T  | 3d6 exp for recruiting |
 | Sea Monsters guild | A E F I T U | In *Here be Monsters* scenario allows choose the monster |
-| Gunpowder Market | A B E F L R | ½ price of black powder weapons |
+| Gunpowder Market | A B E F L R | ½ price of black powder weapons (one item every afterbattle) |
 
 | North | Scenario 1d6: | Advantages |	
 | :---- | :---- | :---- |
-| Mount Ertinia villas | B E L T U W | ½ price on Banners |
+| Mount Ertinia villas | B E L T U W | ½ price on Banners (one item every afterbattle) |
 | Pirate King's Fortress | C C E T U W | \+1 Ld to leader of warband |
 | Roba | D F L T U W | Roll one extra dice in the Exploration Phase |
 
 | Southwest | Scenario 1d6: | Advantages |	
 | :---- | :---- | :---- |
 | Senelite  (Rich port)  | A C D H R S | Allow to reroll the D66 of the Open Cargo roll  |
-| Osso Hills | E L V U W Z | The random happening will always be Press Gang where one of the gang members will be Zingag “Goldtongue” The rest of the Gang would be Forest Goblins with 2 swords.  |
+| Osso Hills | E L V U W Z | The random happening will always be Press Gang where one of the gang members will be Zingag “Goldtongue” The rest of the Gang would be Forest Goblins with 2 swords. |
 | Ossomunte (criminal town) | B D F I L U | Always find the maximum amount of gold or equipment at a location on the Exploration Chart. |
 | Caprio (Strategic viewpoint) | C D I L U W | During the Exploration Phase, you may modify one dice by \+1 or \-1. |
 
 | Southeast | Scenario 1d6: | Advantages |	
 | :---- | :---- | :---- |
 | Vermonte | A B F H I S | Allows open 2 Cargo in the exploration phase |
-| Dwarf Hold. Slayer Pirates. | C D E L U | 1/2 price to hire Dwarf Troll Slayer. 1/2, price Bugman's Ale, Gromril Armour, Gromril Weapons and Dwarven Pistol.  |
+| Dwarf Hold. Slayer Pirates. | C D E L U | 1/2 price to hire Dwarf Troll Slayer. 1/2, price Bugman's Ale, Gromril Armour, Gromril Weapons and Dwarven Pistol. (one item every afterbattle) |
 | Caragio whale hunters' village. | B D E U W | Leviathan Hunter ½ price |
 | Dammeds cave | C N U V Z | During the Exploration Procedure, if a location is found, you may change the result to  Cursed Cove instead. However, Heroes have \+2 to Ld test. Cult of Possesed/Chaos Heroes always return with the maximum amount of Cargo. |
 
@@ -37,8 +37,8 @@
 
 | Skull Sands | Scenario 1d6: | Advantages |	
 | :---- | :---- | :---- |
-| Black Gull Cay | K M N V Y | ½  price Poisons and Drugs |
-| Dead Man’s Shoal  | C K M N Y | Undead warband: Zombies cost 10 gc to hire and Ghouls cost 30 gc to hire. Other warbands: The warband is immune to Fear, and Terror is treated as Fear. |
+| Black Gull Cay | K M N V Y | ½  price Poisons and Drugs (one item every afterbattle) |
+| Dead Man’s Shoal  | C K M N Y | Undead warband: Zombies cost 10 gc to hire and Ghouls cost 30 gc to hire. Other warbands: The warband is immune to Fear. |
 
 | Cappo Cinno  | Scenario 1d6: | Advantages |	
 | :---- | :---- | :---- |
