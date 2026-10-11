@@ -27,7 +27,7 @@ immediately has it dry their next Recovery Phase.
 
 ## **Foggy**
 A thick fog has rolled in from the coast.
-Roll 1D6. A roll of 1-5 results in all shooting
+Roll 1D6 every round. A roll of 1-5 results in all shooting
 reduced to half range due to poor visibility. On a
 6 warriors can't see where they are going and are
 disoriented. Using a random move dice (40k) roll

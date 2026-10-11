@@ -123,7 +123,6 @@ sidebar_position: 135
 
 | Item | Cost | Availability |
 |------|------|--------------|
-| Raft | 10 + Capacity x 3 gc | Common |
 | Row Boat | 20 + Capacity x 3 gc | Rare 5 |
 | Sailboat | 40 + Capacity x 4 gc | Rare 6 |
 | Sloop | 50 + Capacity x 4 gc | Rare 9 |
