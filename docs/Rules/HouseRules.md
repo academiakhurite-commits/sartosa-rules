@@ -49,7 +49,23 @@ Caster at Start: Roll 2 Dice and choose 1 for starting spell.
 
 ### Hired swords
 
-Described en this website
+- Described en this website
+- Core Hired Swords https://mordheimer.net/docs/campaigns/hired-swords/core
+- Tilean Marksman https://mordheimer.net/docs/campaigns/hired-swords/grade-1a#tilean-marksman
+- Imperial Assassin https://mordheimer.net/docs/campaigns/hired-swords/grade-1a#imperial-assassin
+- Bard https://mordheimer.net/docs/campaigns/hired-swords/grade-1a#imperial-assassin
+- Big Game Hunter https://mordheimer.net/docs/campaigns/hired-swords/grade-1b#big-game-hunter
+- Bounty Hunter https://mordheimer.net/docs/campaigns/hired-swords/grade-1b#bounty-hunter
+- Duellist https://mordheimer.net/docs/campaigns/hired-swords/grade-1b#duellist
+- Dwarf Pathfinder https://mordheimer.net/docs/campaigns/hired-swords/grade-1b#dwarf-pathfinder
+- Dwarf Treasure Hunter https://mordheimer.net/docs/campaigns/hired-swords/grade-1b#dwarf-treasure-hunter
+- Halfling Thief https://mordheimer.net/docs/campaigns/hired-swords/grade-1b#halfling-thief
+- Witch https://mordheimer.net/docs/campaigns/hired-swords/grade-1b#witch
+- Beggar https://mordheimer.net/docs/campaigns/hired-swords/grade-2a#beggar
+- Dwarf Slayer Pirate https://mordheimer.net/docs/campaigns/hired-swords/grade-2a#dwarf-slayer-pirate
+- Estalian Diestro https://mordheimer.net/docs/campaigns/hired-swords/grade-2a#estalian-diestro
+- Swashbuckler https://mordheimer.net/docs/campaigns/hired-swords/grade-2a#swashbuckler
+
 
 
 ### Dramatis Personae
