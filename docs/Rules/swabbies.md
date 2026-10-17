@@ -51,6 +51,8 @@ Roll another D6 for each: on a roll of 4+, the model is Kidnapped! Once a warban
 Captain’s and the Henchman’s Leadership.
 Again, if the Pirate player won, he receives +1 to his roll.
 
+You may choose to make a captured model a Swabbie, without rolling to see if he joins the Crew. Captured NPCs will only become Swabbies.
+
 
 ## Multiplayer
 

@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 # Game Rules:
 
-Offhand attacks get a minus 1 to hit modifier (Hired swords are not affected)
+Offhand attacks get a minus 1 to hit modifier.
 6´s will still always hit.
 
 Ambidextrous: combat ability that avoid the -1 to hit on the offhand attack
@@ -14,7 +14,7 @@ Strength modifiers do not count into armor penetration.
 
 It's possible to wound with a 7(6+4), 8(6+5), 9(6+6)
 
-Toughened Leathers abialbe for every warband 
+Toughened Leathers available for every warband 
 
 Spears and Boat Hook: Strikes first, but chargers strike first too, so it goes to initiative value.
 
